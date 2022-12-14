@@ -1,0 +1,40 @@
+* {
+    font-family: monospace, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: hsl(180, 100%, 20%);
+    font-size: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+tr {
+    border-bottom: 2px solid white;
+}
+
+td {
+    background-color: hsl(180, 50%, 90%);
+    color: hsl(180, 50%, 25%);
+    padding: 10px 20px;
+}
+
+.code {
+    background-color: hsl(180, 50%, 25%);
+    color: hsl(180, 50%, 90%);
+    text-align: right;
+}
+
+.heading {
+    text-align: center;
+}
+
+.topic {
+    text-align: center;
+    background-color: hsl(180, 50%, 25%);
+    color: hsl(180, 50%, 90%);
+}
